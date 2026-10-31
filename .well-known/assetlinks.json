@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.cheetdoug_wq.twa",
+      "sha256_cert_fingerprints": [
+        "76:6B:60:C6:95:E4:15:7F:1F:11:D5:B9:04:C2:FF:46:95:5E:C3:08:9F:86:DC:88:DA:7B:E5:B5:F1:E2:24:69"
+      ]
+    }
+  }
+]
